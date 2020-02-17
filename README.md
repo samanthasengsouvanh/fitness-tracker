@@ -8,15 +8,15 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 A consumer will reach their fitness goals quicker when they track their workout progress.
 
-## Deployed Link
-
-https://fitness-tea.herokuapp.com
-
 ## Screenshots
 
 ![UI SCREENSHOT](./public/assets/fitnesstracker.png)
 
 ![UI SCREENSHOT](./public/assets/fitnesstracker2.png)
+
+## Deployed Link
+
+https://fitness-tea.herokuapp.com
 
 ## Author
 
